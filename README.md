@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Goutam Hegde
-- Graduated From BMS College Of Engneering in The Stream Of Electronics And TeleCommunication
+- 👋 Hello, I’m Goutam Hegde 
 - 👀 I’m interested in Software Devolpping
-- 📫 How to reach me mail id:-hegdegautam24@gmail.com
+-  mail id:-hegdegautam24@gmail.com
 - Portfolio:-https://darling-speculoos-63c996.netlify.app/
 - Make it work,Make it right,make it fast__
 !!
