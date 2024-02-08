@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Goutam Hegde 
-- 👀 I’m interested in Software Devolpping
+- 👀 I’m interested in Software Developing 
 -  mail id:-hegdegautam24@gmail.com
 - Portfolio:-https://darling-speculoos-63c996.netlify.app/
 - Make it work,Make it right,make it fast__
